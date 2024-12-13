@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DateComparison {
+public class DateComparison Update {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
